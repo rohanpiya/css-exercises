@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.odd {
+    background-color: rgb(234, 95, 95);
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+#the-special-element {
+    color: rgb(40, 40, 234);
+    font-size: 36px;
+}
+
+.cool {
+    font-size: 24px;
+}
+
+#the-not-so-special-element {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: 800;
+}
